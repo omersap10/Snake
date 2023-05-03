@@ -1,0 +1,4 @@
+﻿  snake.c
+C:\Users\User\Desktop\לימודים\אקדמיה\האקדמית תל אביב-יפו\שנה א'\סמסטר א'\מבוא למדעי המחשב\שיעורי בית\Snake Game\Snake Game\snake.c(44,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int (__cdecl *)()'
+C:\Users\User\Desktop\לימודים\אקדמיה\האקדמית תל אביב-יפו\שנה א'\סמסטר א'\מבוא למדעי המחשב\שיעורי בית\Snake Game\Snake Game\snake.c(241,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake Game.vcxproj -> C:\Users\User\Desktop\לימודים\אקדמיה\האקדמית תל אביב-יפו\שנה א'\סמסטר א'\מבוא למדעי המחשב\שיעורי בית\Snake Game\Debug\Snake Game.exe
